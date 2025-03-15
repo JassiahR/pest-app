@@ -27,3 +27,4 @@ streamlit  # Required for Streamlit apps
 wget  # Download files easily
 ultralytics  # YOLOv8 support
 onnxruntime  # For ONNX model inference
+cv2
