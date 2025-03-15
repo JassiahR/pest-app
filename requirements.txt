@@ -29,3 +29,5 @@ wget
 ultralytics
 onnxruntime
 cv2
+torch
+torchvision
