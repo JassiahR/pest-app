@@ -28,3 +28,4 @@ streamlit
 wget
 ultralytics
 onnxruntime
+cv2
